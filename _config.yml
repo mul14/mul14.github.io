@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mul14.github.io
+title: Mulia Arifandi Nasution
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
